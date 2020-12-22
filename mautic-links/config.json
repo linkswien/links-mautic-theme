@@ -1,0 +1,10 @@
+{
+  "name": "LINKS",
+  "author": "LINKS",
+  "authorUrl": "https://links-wien.at",
+  "features": [
+    "page",
+    "email",
+    "form"
+  ]
+}

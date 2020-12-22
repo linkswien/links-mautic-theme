@@ -1,0 +1,60 @@
+body {
+  background-color: #f0f0f0;
+  font-family: 'Monument Grotesk', Roboto, Arial, sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  padding: 3rem 0;
+}
+
+.white-box {
+  background-color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+.white-box h2 {
+  margin: 0;
+}
+.white-box p {
+  line-height: 150%;
+}
+
+.button {
+  font-size: 1.5rem;
+  color: #fff;
+  background-color: #5C0AA3;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: inline-block;
+}
+
+.about {
+  font-size: 9px;
+  color: #212121;
+  text-align: center;
+}
+.about p {
+  margin: 1rem;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+}
+.social a {
+  margin: 1rem 0.3rem;
+}
+.social img {
+  width: 40px;
+}
