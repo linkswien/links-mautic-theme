@@ -2,6 +2,7 @@
   "name": "LINKS",
   "author": "LINKS",
   "authorUrl": "https://links-wien.at",
+  "builder": "grapesjsbuilder",
   "features": [
     "page",
     "email",
