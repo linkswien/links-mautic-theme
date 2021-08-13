@@ -4,6 +4,8 @@
   "authorUrl": "https://links-wien.at",
   "builder": "grapesjsbuilder",
   "features": [
-    "email"
+    "email",
+    "page",
+    "form"
   ]
 }
