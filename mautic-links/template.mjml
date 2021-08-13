@@ -1,0 +1,94 @@
+<mjml>
+  <mj-head>
+    <mj-title>Newsletter</mj-title>
+    <mj-preview>Hello there</mj-preview>
+
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-size="16px" line-height="22px"></mj-text>
+      <mj-button background-color="#5E219E" color="white"></mj-button>
+      <mj-social-element background-color="#5E219E" border-radius="50%"></mj-social-element>
+    </mj-attributes>
+
+    <mj-style inline="inline">
+      .text-link { color: #5E219E }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link-footer { color: #455467 }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#E7E7E7" width="550px">
+    <mj-section full-width="full-width" background-color="#43187E" padding="16px">
+      <mj-column width="100%">
+        <mj-image width="200px" align="center" src="https://links-wien.at/wp-content/themes/links-wien-theme/img/links_logo_light.svg" alt="LINKS Logo" href="https://links-wien.at">
+        </mj-image>
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="12px">
+          Newsletter am 25. November 2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="16px" padding-bottom="0">
+      <mj-section background-color="#1f2e78" padding="0">
+        <mj-column width="100%">
+          <mj-image src="https://mautic.links-wien.at/media/images/47653ef2739003b559ba53914cb915e0.jpeg" width="600px" alt="GRUSS AUS DER LINKS KÜCHE" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0">
+        <mj-column width="100%" background-color="#ffffff" padding="0px" padding-top="40px" padding-bottom="48px">
+
+          <mj-text font-size="24px" font-weight="bold">Morgen: Gruß aus der LINKS Küche!
+          </mj-text>
+          <mj-text>
+            Wir melden uns zurück mit unserem regelmäßigen „Gruß aus der LINKS Küche“. Hier richten wir uns an alle Interessierten, stellen unsere Arbeit und unsere Aktivist*innen vor und besprechen Möglichkeiten zum Mitmachen bei LINKS. Außerdem beantworten wir
+            eure offenen Fragen und freuen uns auf eure Anregungen.
+          </mj-text>
+
+          <mj-text font-weight="bold">
+            Wann: Morgen, Donnerstag, 26. November 2020 um 18:30 Uhr<br /> Wo: <a class="text-link" href="https://newschool.zoom.us/j/95767169928">Online auf Zoom</a>
+          </mj-text>
+
+          <mj-text>
+            Nach einem Rückblick auf den Wahlkampf im ersten Treffen machen wir weiter mit der Vorstellung verschiedener Bereiche und geben Einblicke:
+          </mj-text>
+
+          <mj-text padding-left="32px" padding-right="32px">
+            ✊🏽 Über die Arbeit der Interessensgruppe FLINT (Frauen, Lesben, inter, non-binary und trans Personen) mit Leonie Stein.
+          </mj-text>
+          <mj-text padding-left="32px" padding-right="32px">
+            🌳🏘 Über Bezirksgruppenarbeit mit Julia Proksch aus der Bezirksgruppe 17/18/19.
+          </mj-text>
+          <mj-text padding-left="32px" padding-right="32px">
+            📰 Über Presse- und Öffentlichkeitsarbeit mit Bernhard Hayden.
+          </mj-text>
+          <mj-text>
+            Wir freuen uns auf dich!
+            <br/><br/> 💜
+          </mj-text>
+          <mj-button font-size="22px" text-transform="uppercase" font-weight="bold" href="https://newschool.zoom.us/j/95767169928" padding-top="24px">
+            Link zum Zoom meeting
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding-top="0">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="10px" line-height="1.5" color="#455467">
+          Dieses E-Mail wurde an [Email] gesendet. Wenn's sein muss, kannst du dich <a class="text-link-footer" href="#">hier</a> abmelden. Wir hoffen aber, dass du uns erhalten bleibst, denn E-Mails sind ein wichtiger Teil unserer politischen Arbeit.
+          So halten wir dich am Laufenden, binden Mitglieder und Unterstützer*innen ein und lukrieren Spenden. Um ehrlich zu sein: Wir haben keine andere Spendenquelle, die uns mehr dabei hilft unsere politische Arbeit zu finanzieren, als E-Mails wie
+          dieses. Und das ist wichtig, denn nur gemeinsam können wir ein Wien für alle schaffen – nicht nur für jene, die sich's leisten können!
+          <br /><br /> LINKS Wien | Gaullachergasse 59/16 | 1160 Wien
+        </mj-text>
+
+        <mj-social padding-top="16px" icon-size="48px" mode="horizontal" align="center">
+          <mj-social-element name="facebook" alt="LINKS Wien Facebook Link" href="https://facebook.com/linkswien" />
+          <mj-social-element name="instagram" alt="LINKS Wien Instagram Link" href="https://instagram.com/linkswien" />
+          <mj-social-element name="twitter" alt="LINKS Wien Twitter Link" href="https://twitter.com/linkswien" />
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
